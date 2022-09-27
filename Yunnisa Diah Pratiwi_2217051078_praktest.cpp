@@ -8,4 +8,6 @@ int main(){
 	}else if(angka >3){
 		cout<<"bilangan lebih besar dari tiga"<<endl;
 	}
+	return 0;
 }
+
